@@ -1,0 +1,8 @@
+streamlit
+huggingface_hub
+byaldi
+transformers
+Pillow
+torch
+openai
+python-dotenv
